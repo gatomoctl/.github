@@ -5,4 +5,5 @@ I have intention to create a self-hosted GitLab instance to have a copy of this.
 
 ## funny_image.png
 
-![h75854451](https://github.com/gatomoctl/.github/assets/63877602/40f7f2b9-b6d7-4b55-ad48-d95361461e0f)
+
+![funny_image.png](https://github.com/user-attachments/assets/07337161-61a1-4aed-9d8d-acbc22e06e2f)
